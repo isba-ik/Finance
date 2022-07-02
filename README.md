@@ -1,1 +1,1 @@
-ML projects I have done in FInance
+ML projects I have done in the field of Finance
